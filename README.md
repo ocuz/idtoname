@@ -1,1 +1,1 @@
-pip install requests,aiohttp
+pip install aiohttp
