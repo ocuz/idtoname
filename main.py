@@ -1,7 +1,7 @@
 import aiohttp,asyncio
 
 API="https://users.roblox.com/v1/users"
-WEBHOOK="https://discord.com/api/webhooks/1213165458694606878/O5gQ-lbc_tbmVOO47tZp_MV1q2OkhB3yfBSPkvHwfdnzLis2oUq_gfnzVm-i27jo-yCV"
+WEBHOOK="https://discord.com/api/webhooks/1372648911375769691/2BTmnK9tsgQo5IMNIf9Stbtu7JHbVRK2JS7wV1KIVcvKpHteNETKRM6ohKW0LT74MQo"
 ids=open("ids.txt").read().splitlines()
 
 async def fetch(s,uid):
